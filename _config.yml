@@ -47,11 +47,29 @@ social_media:
   # youtube: your_username
 
 topics:
+  - name: Node.js
+    web_url: https://github.com/topics/nodejs
+    iamge_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/nodejs/nodejs.png
+
+  - name: React.js
+    web_url: https://github.com/topics/reactjs
+    iamge_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/reactjs/reactjs.png
+    
+  - name: PHP
+    web_url: https://github.com/topics/php
+    iamge_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/php/php.png
+
+  - name: JavaScript
+    web_url: https://github.com/topics/javascript
+    iamge_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/javascript/javascript.png
+
+  - name: HTML
+    web_url: https://github.com/topics/html
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/html/html.png
+
   - name: CSS
     web_url: https://github.com/topics/css
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
-
-  - name: Web design
 
   - name: Sass
     web_url: https://github.com/topics/sass
