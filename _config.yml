@@ -1,5 +1,8 @@
 layout: sidebar
+# layout: stacked
+
 style: light
+# style: dark
 
 plugins:
   - jekyll-octicons
@@ -26,25 +29,27 @@ projects:
     archived: false
     forks: true
     projects:
-    # - repo-name
+      - sanjayrgoraniya.github.io
+      - SanjayGoraniya
+      
 
 social_media:
-  # behance: your_username
-  # dribbble: your_username
-  # facebook: your_username
-  # hackerrank: your_username
-  # instagram: your_username
-  # keybase: your_username
+  behance: your_username_behance
+  dribbble: your_username_dribbble
+  facebook: your_username_facebook
+  hackerrank: your_username_hackerrank
+  instagram: your_username_instagram
+  keybase: your_username_keybase
   linkedin: sanjaygoraniya
-  # mastodon: your_username
-  # medium: your_username
-  # stackoverflow: your_user_id
-  # telegram: your_username
+  mastodon: your_username_mastodon
+  medium: your_username_medium
+  stackoverflow: your_user_id_stackoverflow
+  telegram: your_username_telegram
   twitter: sanjayrgoraniya
-  # unsplash: your_username
-  # vk: your_username
+  unsplash: your_username_unsplash
+  vk: your_username_vk
   website: http://sanjaygoraniya.github.io
-  # youtube: your_username
+  youtube: your_username_youtube
 
 topics:
   - name: Node.js
